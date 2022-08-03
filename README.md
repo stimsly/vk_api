@@ -1,4 +1,5 @@
-# vk_api
+# vk_api using lib=requests
+
 Количество друзей друзей
 
 
